@@ -1,0 +1,2 @@
+public class timhw2 {
+}
